@@ -116,7 +116,7 @@ li {
 }
 
 .header-logo img {
-    width: 100%;
+    width: 12.5rem;
     height: 10vh;
     padding: 0.3125rem 0 0 0;
 }
@@ -124,6 +124,7 @@ li {
 @media (min-width: 768px) {
     .header-logo img {
         height: 10.5rem;
+        width: 100%;
         padding: 1.5rem 0 0 0;
     }
 }
